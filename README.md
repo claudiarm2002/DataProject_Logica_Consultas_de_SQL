@@ -21,6 +21,7 @@ The goal of this project is to apply and demonstrate solid knowledge of SQL logi
 
 The project is organized as follows:
 - **DataProject_SQLLogicQueries.sql** – Main file containing all 64 SQL queries with detailed comments.
+- **DataProject_SQLLogicQueries_Correction.sql** - Correction of the project.
 - **README.md** – Project documentation and overview.
 - **Diagram_SQLLogicQueries.png** – Database schema diagram used as a visual reference for the queries.
 
